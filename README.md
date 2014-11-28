@@ -8,6 +8,7 @@ Visit [issue #3684](https://github.com/atom/atom/issues/3684) to learn more
 about the Atom 1.0 roadmap.
 
 ## Installing
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/MadeinCupertino/atom?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ### Mac OS X
 
